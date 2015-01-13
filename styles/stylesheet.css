@@ -153,6 +153,10 @@ article h1 {
     text-shadow: 1px 1px 1px rgb(0, 0, 0);
 }
 
+article h1 a{
+text-decoration: none;
+}
+
 /* Portfolio */
 article h2 {
 	margin-top: 2%;
@@ -163,7 +167,6 @@ article h2 {
 	text-align: center;
     text-shadow: 1px 1px 1px rgb(0, 0, 0);
 }
-
 
 article p {
 	margin: auto;
@@ -572,6 +575,7 @@ text-decoration: none;
 }
 
 
+
 /* Contact page */
 form{
 	margin: auto;
@@ -780,7 +784,6 @@ form{
 	-webkit-box-shadow: 0 0 20px rgba(0,0,0,0.6);
 	-o-box-shadow: 0 0 20px rgba(0,0,0,0.6);
 }
-
 
 .stickyfooter {
 	margin: 0 auto;
