@@ -241,7 +241,6 @@ article p {
 	background-color: rgba(255, 255, 255, 1);	
 }
 
-
 .pri-port { 
 	margin-top: 10%;
 	margin-left: -29.7%;
@@ -258,7 +257,7 @@ article p {
 
 .photo h3 {
 	margin-top: 2%;
-	margin-left: .6%;
+	margin-left: 1.45%;
 	padding: 10px 10px;
 	font-family: 'arial', 'helvetica', sans-serif;
 	font-size: 1.7em;
@@ -271,7 +270,6 @@ article p {
 	border-radius: 5px;
 	background-color: rgba(255, 255, 255, 1);	
 }
-
 
 .pho-port { 
 	margin-top: 10%;
@@ -359,7 +357,7 @@ article p {
 	font-size: 1.7em;
 	color: rgba(1, 70, 209, 1);
 	text-shadow: 1px 1px 1px rgb(0, 0, 0);
-	width: 30%;
+	width: 27.5%;
 	float: right;
 	text-align: center;
 	border: solid rgba(155, 155, 155, 1);
@@ -369,7 +367,7 @@ article p {
 
 .web-port { 
 	margin-top: 10%;
-	margin-right: -29.9%;
+	margin-right: -29%;
 	width: 27.5%;
 	float: right;
 	display: block;
