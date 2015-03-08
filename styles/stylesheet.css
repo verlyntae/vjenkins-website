@@ -770,7 +770,7 @@ form{
 	width: 250px;
 }
 
-.book{ 
+.book { 
 	margin-top: 5%;
 	width: 100%;
 	height: 100%;
@@ -781,6 +781,11 @@ form{
 	-moz-box-shadow: 0 0 20px rgba(0,0,0,0.6);
 	-webkit-box-shadow: 0 0 20px rgba(0,0,0,0.6);
 	-o-box-shadow: 0 0 20px rgba(0,0,0,0.6);
+}
+
+.article-1{ 
+    width: 10%;
+    height: 10%;
 }
 
 .stickyfooter {
